@@ -534,6 +534,7 @@
   \sectionstyle{#1}
   \phantomsection
   \color{gray}\vhrulefill{0.9pt}
+  \medskip
 }
 
 % Define a subsection for CV
