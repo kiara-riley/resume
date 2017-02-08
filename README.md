@@ -1,4 +1,4 @@
-# My (WIP) resume
+# My Resume
 
 Build with `xelatex` or request a pdf copy.
 
