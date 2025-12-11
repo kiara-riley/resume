@@ -145,6 +145,7 @@
 \definecolor{awesome-nephritis}{HTML}{27AE60}
 \definecolor{awesome-concrete}{HTML}{95A5A6}
 \definecolor{awesome-darknight}{HTML}{131A28}
+\definecolor{awesome-kiara}{HTML}{C70A5C}
 \colorlet{awesome}{awesome-red}
 
 % Boolean value to switch section color highlighting
@@ -376,8 +377,8 @@
 \newcommand{\acvHeaderAfterQuoteSkip}{5mm}
 
 % Others
-\newcommand{\acvSectionTopSkip}{3mm}
-\newcommand{\acvSectionContentTopSkip}{2.5mm}
+\newcommand{\acvSectionTopSkip}{1mm}
+\newcommand{\acvSectionContentTopSkip}{1.5mm}
 
 
 %-------------------------------------------------------------------------------
